@@ -1,0 +1,6 @@
+GR Giurgiu SudMuntenia 262066 3544
+TM TImis Vest 65053 8692
+CS CarasSeverin Vest 246588 8532
+B Bucuresti BucurestiIlfov 1716983 240
+DJ Dolj SudVest 246588 8532
+SB Sibiu Centru 388325 5432
